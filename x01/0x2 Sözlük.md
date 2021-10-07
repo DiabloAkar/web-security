@@ -1,12 +1,12 @@
-SQL Injection Nedir?
+### SQL Injection Nedir?
 
 Saldırganın web yazılımlarını kullanarak veritabanında kendi istediği veriyi tarama yapmasıdır.
 
-UNION SQL Injection nedir?
+### UNION SQL Injection nedir?
 
 Union komudu ile kendinize özel bir uç birim açmış gibi düşünebilirsiniz.Size tekrardan 'SELECT' birimini kullanmanızı sağlar.
 
-Error Base SQL Injection nedir?
+### Error Base SQL Injection nedir?
 
 Örneğin 'http://testphp.vulnweb.com/listproducts.php?cat=1' adresine "...?cat=1" yazan yerin sonuna " ' " koyarsanız
 <img src="https://cdn.discordapp.com/attachments/805191051316297759/895691508555079800/unknown.png" width="400" />
