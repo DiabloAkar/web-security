@@ -5,7 +5,7 @@ Türkçe kaynak!
 
 ## Sosyal Medya Hesaplarım=
 
-- [AkarGang Discord](https://discord.gg/DDcXf472BF) Discord adresim.
+- [AkarGang Discord](https://discord.gg/zEaPMEh2aj) Discord adresim.
 - [Instagram](https://github.com/YusufAkartr) Instagram adresim.
 - [Youtube](https://github.com/BunyaminEfe) Youtube adresim.
 
